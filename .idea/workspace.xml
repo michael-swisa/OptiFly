@@ -1,15 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="3b4c6ef0-751b-43fe-9367-9572bafdb6d2" name="Changes" comment="" />
+    <list default="true" id="3b4c6ef0-751b-43fe-9367-9572bafdb6d2" name="Changes" comment="first commits">
+      <change afterPath="$PROJECT_DIR$/files/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/targets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packege/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packege/file.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/OptiFly.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/OptiFly.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/aircrafts.json" beforeDir="false" afterPath="$PROJECT_DIR$/files/aircrafts.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/pilots.json" beforeDir="false" afterPath="$PROJECT_DIR$/files/pilots.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/aircrafts.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/aircrafts.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/pilots.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/pilots.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "michaelswisa"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/michaelswisa/OptiFly.git",
+    "accountId": "63e9e4c8-cd5f-4710-912d-1c294c423b96"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 5
 }]]></component>
@@ -21,9 +57,15 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -43,8 +85,27 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1726122183725</updated>
-      <workItem from="1726122186601" duration="4000" />
+      <workItem from="1726122186601" duration="7537000" />
     </task>
+    <task id="LOCAL‎-00001" summary="first commits">
+      <option name="closed" value="true" />
+      <created>1726123042405</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL‎-00001" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1726123042405</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commits" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commits" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/OptiFly$main.coverage" NAME="main Coverage Results" MODIFIED="1726129660946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
