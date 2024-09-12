@@ -136,6 +136,5 @@ for i in range(len(data_target)):
                          data_pilot[j]['skill_level'], data_aircraft[k]['speed'], data_aircraft[k]['fuel_capacity']])
 
 print(data)
-with open('data_semicolon.csv', mode='w', newline='') as file:
-    csv_writer = csv.writer(file, delimiter=';')
-    csv_writer.writerows(data)
+url_write_csv = r'C:\_kodcode2\second half\Python\OptiFly\models'
+file.write_csv(url_write_csv, data)
