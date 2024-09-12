@@ -10,5 +10,5 @@ def get_weather(cuantry, key):
     weather = requests.get(url_get_weather).json()
     return weather
 
-
-print(get_weather('yemen', 'a10e75d5c94c635e8496808e1a2918a5'))
+if __name__ == '__main__':
+    print(get_weather('yemen', 'a10e75d5c94c635e8496808e1a2918a5'))

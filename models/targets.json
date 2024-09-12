@@ -3,90 +3,135 @@
         "City": "Tehran",
         "Priority": "5",
         "lat": 35.6892523,
-        "lon": 51.3896004
+        "lon": 51.3896004,
+        "main": 1.0,
+        "clouds": 4,
+        "wind_speed": 0.73
     },
     {
         "City": "Baghdad",
         "Priority": "5",
         "lat": 33.3061701,
-        "lon": 44.3872213
+        "lon": 44.3872213,
+        "main": 1.0,
+        "clouds": 0,
+        "wind_speed": 6.25
     },
     {
         "City": "Damascus",
         "Priority": "5",
         "lat": 33.5130695,
-        "lon": 36.3095814
+        "lon": 36.3095814,
+        "main": 1.0,
+        "clouds": 0,
+        "wind_speed": 3.66
     },
     {
         "City": "Kabul",
         "Priority": "4",
         "lat": 34.5260109,
-        "lon": 69.1776838
+        "lon": 69.1776838,
+        "main": 1.0,
+        "clouds": 0,
+        "wind_speed": 0.59
     },
     {
         "City": "Sanaa",
         "Priority": "4",
         "lat": 15.3538569,
-        "lon": 44.2058841
+        "lon": 44.2058841,
+        "main": 0.7,
+        "clouds": 98,
+        "wind_speed": 0.73
     },
     {
         "City": "Riyadh",
         "Priority": "4",
         "lat": 24.638916,
-        "lon": 46.7160104
+        "lon": 46.7160104,
+        "main": 1.0,
+        "clouds": 8,
+        "wind_speed": 1.04
     },
     {
         "City": "Cairo",
         "Priority": "3",
         "lat": 30.0443879,
-        "lon": 31.2357257
+        "lon": 31.2357257,
+        "main": 1.0,
+        "clouds": 0,
+        "wind_speed": 5.11
     },
     {
         "City": "Beirut",
         "Priority": "3",
         "lat": 33.8959203,
-        "lon": 35.47843
+        "lon": 35.47843,
+        "main": 1.0,
+        "clouds": 0,
+        "wind_speed": 2.56
     },
     {
         "City": "Amman",
         "Priority": "3",
         "lat": 31.9515694,
-        "lon": 35.9239625
+        "lon": 35.9239625,
+        "main": 1.0,
+        "clouds": 0,
+        "wind_speed": 1.63
     },
     {
         "City": "Tripoli",
         "Priority": "2",
         "lat": 32.896672,
-        "lon": 13.1777923
+        "lon": 13.1777923,
+        "main": 0.4,
+        "clouds": 51,
+        "wind_speed": 6.41
     },
     {
         "City": "Khartoum",
         "Priority": "2",
         "lat": 15.5635972,
-        "lon": 32.5349123
+        "lon": 32.5349123,
+        "main": 0.7,
+        "clouds": 53,
+        "wind_speed": 3.06
     },
     {
         "City": "Mosul",
         "Priority": "2",
         "lat": 36.3415843,
-        "lon": 43.1291386
+        "lon": 43.1291386,
+        "main": 1.0,
+        "clouds": 0,
+        "wind_speed": 3.9
     },
     {
         "City": "Fallujah",
         "Priority": "1",
         "lat": 33.3532137,
-        "lon": 43.7875674
+        "lon": 43.7875674,
+        "main": 1.0,
+        "clouds": 0,
+        "wind_speed": 5.48
     },
     {
         "City": "Kandahar",
         "Priority": "1",
         "lat": 31.6205738,
-        "lon": 65.7157573
+        "lon": 65.7157573,
+        "main": 1.0,
+        "clouds": 0,
+        "wind_speed": 1.52
     },
     {
         "City": "Marrakesh",
         "Priority": "1",
         "lat": 31.6258257,
-        "lon": -7.9891608
+        "lon": -7.9891608,
+        "main": 0.7,
+        "clouds": 27,
+        "wind_speed": 1.93
     }
 ]
